@@ -29,7 +29,7 @@ export default function AddTodo(props) {
     <>
       <div
         className="container my-5"
-        style={{ width: '50%', minHeight: '65vh' }}
+        style={{ width: '50%', minHeight: '77vh' }}
       >
         <h3 className="text-center my-3">Add Todo</h3>
         <form onSubmit={submit}>

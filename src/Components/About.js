@@ -5,7 +5,7 @@ export const About = () => {
   let aboutStyle = {
     width: '70%',
     margin: '3.5rem auto',
-    minHeight: '63vh',
+    minHeight: '75vh',
   };
 
   let imageStyle = {
